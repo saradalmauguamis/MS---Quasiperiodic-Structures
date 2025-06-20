@@ -32,4 +32,5 @@ pip install numpy matplotlib scipy pandas
    jupyter lab
    ```
 
-3. Open `1D patterns.ipynb` and/or `2D patterns.ipynb` and run all cells to generate the
+3. Open `1D patterns.ipynb` and/or `2D patterns.ipynb` and run all cells to generate the results and figures.
+
